@@ -1,0 +1,32 @@
+body{
+    background-color:black;
+}
+
+.card{
+    width:400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url('../assets/background.png') no-repeat;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.Instagram{
+    list-style-image: url('../assets/insta.png');
+
+}
+
+.LinkedIn{
+    list-style-image: url('../assets/LinkedIn.png');
+}
+
+.GitHub{
+    list-style-image: url('../assets/GitHub.png')
+}
